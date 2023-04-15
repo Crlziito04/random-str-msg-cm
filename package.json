@@ -1,0 +1,19 @@
+{
+  "name": "random-str-msg-cm",
+  "version": "1.0.0",
+  "description": "Ramdon string message",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "CarlosMolina <Carlos.jmr90@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-str-msg-cm": "./bin/glogal.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "user": "^0.0.0"
+  }
+}
